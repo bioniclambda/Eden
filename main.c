@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-
-#include "geometry.c"
+#include "eden.h"
 
 int main(void) {
 	printf("Hello World\n"); //Debugging/test stuff
