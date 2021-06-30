@@ -1,6 +1,6 @@
 # Eden
 
-OLD REPO GO TO edenmath/eden
+> OLD REPO GO TO [edenmath/eden](https://github.com/edenmath/eden)
 
 Not even close to done but I figure people can help me fix this before it gets too out of hand.
 
